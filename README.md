@@ -1,4 +1,4 @@
-<h1 align="center"> Springbot Crud Api </h1>
+<h1 align="center"> Spring Boot Crud Api </h1>
 
 ## Índice
 
@@ -21,7 +21,7 @@
 
 - **Tecnologias**
   - [Java](https://www.java.com/pt-BR/)
-  - [SpringBot](https://spring.io/projects/spring-boot)
+  - [Spring Boot](https://spring.io/projects/spring-boot)
   - [Docker](https://www.docker.com/)
   - [Postgres](https://www.postgresql.org/)
   - [Spring Tools 4 for Eclipse](https://spring.io/tools)
